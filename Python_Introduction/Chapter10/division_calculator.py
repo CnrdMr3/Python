@@ -14,3 +14,21 @@ except ZeroDivisionError:
     print("You can't divide by 0!")
 else:
     print(answer)
+
+
+# Py doesn't allow you to divide by zero, but 
+# import java.util.*; ( Math )
+# Can divide by zero:
+
+# public class BlahBlah {
+# psvm(String[]args){
+# double value1 = 5.00d;
+# double value2 = 0.00d;
+# double value3 = value1 / value2;
+
+# System.out.println(value3);
+#  }
+# }
+
+# output: "Infinity"
+# I'm serious, pretty cool right ?
