@@ -16,8 +16,10 @@ else:
     print(answer)
 
 
-# Py doesn't allow you to divide by zero, but 
+# Py doesn't allow you to divide by zero, but Java does =>
+
 # import java.util.*; ( Math )
+
 # Can divide by zero:
 
 # public class BlahBlah {
